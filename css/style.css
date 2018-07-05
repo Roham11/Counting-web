@@ -1,0 +1,33 @@
+h1 {color: yellow;
+	font-size: 40px;
+}
+
+h2 {color: #43f94f;
+
+}
+
+#button1{
+	font-size: 15px;
+	font-weight: bold;
+	color: #ffe738;
+	background-color: #841e0a;
+}
+#button2{
+	font-size: 15px;
+	font-weight: bold;
+	color: #ffe738;
+	background-color: #841e0a;
+}
+#results {
+	background-color: #631d29;
+	background-size: 20px 10px;
+	font-size: 25px;
+	background-position: 50% 50%;
+
+}
+
+body {color: #ebe787;
+     background-color: #05001c;
+     background-image: url("Cal.gif")
+     background-repeat: no-repeat;
+}
